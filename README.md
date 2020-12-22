@@ -1,2 +1,2 @@
-# SynchronousC-34
-SynchronousC-34
+# synchronousBallMovement
+Ball moving synchronously
